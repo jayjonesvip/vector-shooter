@@ -6,6 +6,11 @@
 ![Last Commit](https://img.shields.io/github/last-commit/jayjonesvip/vector-shooter)
 
 
+![HTML5](https://img.shields.io/badge/HTML5-Canvas-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
+![Genre](https://img.shields.io/badge/Genre-Arcade%20Shooter-blue)
+
+
 A lightweight HTML5 canvas arcade shooter with clean vector visuals, simple controls, increasing difficulty, and sound effects.
 
 ## ▶ Play the Game
