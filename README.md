@@ -13,7 +13,6 @@
 
 A lightweight HTML5 canvas arcade shooter with clean vector visuals, simple controls, increasing difficulty, and sound effects.
 
-![Gameplay screenshot](screenshot.gif)
 
 Runs directly in the browser — no build step required.
 
@@ -48,3 +47,6 @@ Just open `index.html` in your browser.
 
 ## License
 MIT (or choose your preferred license)
+
+## Screenshot
+![Gameplay screenshot](screenshot.gif)
