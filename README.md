@@ -1,9 +1,10 @@
 # Vector Shooter
 
 [![Play Vector Shooter](https://img.shields.io/badge/▶%20Play-Vector%20Shooter-brightgreen?style=for-the-badge)](https://jayjonesvip.github.io/vector-shooter/)
+
 ![Game Status](https://img.shields.io/website?url=https://jayjonesvip.github.io/vector-shooter/&label=Game%20Status)
 ![Last Commit](https://img.shields.io/github/last-commit/jayjonesvip/vector-shooter)
-![Repo Size](https://img.shields.io/github/repo-size/jayjonesvip/vector-shooter)
+
 
 A lightweight HTML5 canvas arcade shooter with clean vector visuals, simple controls, increasing difficulty, and sound effects.
 
