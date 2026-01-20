@@ -13,9 +13,7 @@
 
 A lightweight HTML5 canvas arcade shooter with clean vector visuals, simple controls, increasing difficulty, and sound effects.
 
-## ▶ Play the Game
-**Live demo:**  
-https://jayjonesvip.github.io/vector-shooter/
+![Gameplay screenshot](screenshot.gif)
 
 Runs directly in the browser — no build step required.
 
