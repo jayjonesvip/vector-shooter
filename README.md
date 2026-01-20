@@ -42,16 +42,5 @@ Runs directly in the browser — no build step required.
 ## Run Locally
 Just open `index.html` in your browser.
 
-If audio won’t play at first, click anywhere (browsers require a user gesture to unlock audio).
-
-## GitHub Pages Setup
-1. Repo → **Settings** → **Pages**
-2. Source: `Deploy from a branch`
-3. Branch: `main` • Folder: `/ (root)`
-4. Save
-
-Then your game will be live at:  
-https://jayjonesvip.github.io/vector-shooter/
-
 ## License
 MIT (or choose your preferred license)
